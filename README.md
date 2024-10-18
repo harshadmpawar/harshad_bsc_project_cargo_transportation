@@ -1,4 +1,4 @@
-![72 cargo](https://github.com/user-attachments/assets/ab20b805-2c98-4fda-8b0d-92b0b0314e1d)![mpv-shot0001](https://github.com/user-attachments/assets/197698f6-2c46-4831-8b33-97e8d51b7ca7)This is a basic computer science system management project, a simplified yet effective and optimal Cargo Transportation System Webpage.
+This is a basic computer science system management project, a simplified yet effective and optimal Cargo Transportation System Webpage.
 
 The Cargo Transportation System is a website developed to manage the information and records of cargo transportations, keeping the clients and corresponding transport agencies up to date regarding the cargo information. Client could be an individual user or a small company that adds job of shipment of their cargo through the website. Corresponding agency has to transport cargo from one city to another, and keep records of it. It provides clients with all the information regarding their cargo. This report will help the users to get detailed knowledge about the system and how it is to be used.
 
